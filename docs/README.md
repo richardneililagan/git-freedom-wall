@@ -38,5 +38,5 @@ Hello world!
 ::: tip April 20, 2020
 Hello world!
 
-&mdash; [Carding](/roster/farhan.md)
+&mdash; [Farhan](/roster/farhan.md)
 :::
