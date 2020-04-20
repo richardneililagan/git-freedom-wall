@@ -35,7 +35,7 @@ Hello world!
 &mdash; [Carding](/roster/carding.md)
 
 ::: tip April 20, 2020
-[Message Here]
+Hi Guys
 
 &mdash; [Too](/roster/too.md)
 :::
