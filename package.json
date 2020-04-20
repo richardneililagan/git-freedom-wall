@@ -14,5 +14,8 @@
   "devDependencies": {
     "vuepress": "1.4.1"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "yarn": "1.22.4"
+  }
 }
