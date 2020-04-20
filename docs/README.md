@@ -34,3 +34,9 @@ Hello world!
 
 &mdash; [Carding](/roster/carding.md)
 :::
+
+::: tip April 20, 2020
+Hello from Crystal
+
+&mdash; [Crystal](/roster/crystal.md)
+:::
